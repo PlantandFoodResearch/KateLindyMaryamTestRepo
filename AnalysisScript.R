@@ -5,6 +5,8 @@ library(plotly)
 
 #Lindy load more package
 library(lattice)
+xtabs()
+
 
 library(MASS)
 x <- 1
