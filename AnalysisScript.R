@@ -6,7 +6,9 @@ library(plotly)
 #Lindy load more package
 library(lattice)
 xtabs()
-
+a = c(1:10)
+b = c(2:11)
+plot(a,b)
 
 library(MASS)
 x <- 1
