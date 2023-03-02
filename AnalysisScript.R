@@ -19,3 +19,6 @@ library(car)
 
 # Catherine
 library(openxlsx)
+
+#Duncan
+library(RVAideMemoire)
